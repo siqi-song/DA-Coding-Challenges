@@ -8,7 +8,7 @@ Create an online SQL sandbox and try out the challenges with SQL Playground: htt
 ## Code Challenges
 
 ### Entry Level:
-1. [Merging Tables](entry/merging_tables.md)
+1. [Merging Tables](challenges/entry/merging-tables/problem.md)
 
 ### Intermediate:
 
