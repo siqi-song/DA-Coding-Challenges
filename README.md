@@ -1,5 +1,5 @@
 # DA-Coding-Challenges
-Coding Challenges for Data Analytics, focusing on SQL &amp; Python (Pandas)
+Original coding challenges for Data Analytics role, focusing on SQL &amp; Python (Pandas)
 
 Create an online SQL sandbox and try out the challenges with SQL Playground: https://sqlplayground.app/
 
@@ -8,6 +8,7 @@ Create an online SQL sandbox and try out the challenges with SQL Playground: htt
 ## Code Challenges
 
 ### Entry Level:
+1. [Merging Tables](entry/merging_tables.md)
 
 ### Intermediate:
 
